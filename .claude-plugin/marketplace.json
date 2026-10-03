@@ -1,0 +1,15 @@
+{
+  "name": "launch-film",
+  "description": "Expert product launch films with Claude: research, storyboard, Remotion build, original score, adversarial QA.",
+  "owner": {
+    "name": "Anannya Mishra",
+    "url": "https://github.com/Anann99"
+  },
+  "plugins": [
+    {
+      "name": "launch-film",
+      "source": "./",
+      "description": "Make an expert-grade 30–90 s product launch film for your company from its website and live product — storyboard, Remotion build, original synced score, multi-agent QA, 1080p + 4K masters."
+    }
+  ]
+}

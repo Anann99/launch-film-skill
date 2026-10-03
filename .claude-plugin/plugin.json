@@ -1,0 +1,13 @@
+{
+  "name": "launch-film",
+  "description": "Make an expert-grade product launch film for your company end to end: intake, website and product research, beat-locked storyboard with adversarial critique, parallel Remotion build from real 4K product captures, an original synced score, and multi-agent QA to 1080p + 4K masters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anannya Mishra",
+    "url": "https://github.com/Anann99"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Anann99/launch-film-skill",
+  "repository": "https://github.com/Anann99/launch-film-skill",
+  "keywords": ["video", "launch-video", "remotion", "motion-design", "marketing", "skill", "multi-agent"]
+}
