@@ -28,7 +28,7 @@ Claude asks you a short intake, then works for a few hours (mostly autonomously)
 ## How it works
 
 ```mermaid
-flowchart LR
+flowchart TD
   A[0 · Intake<br/>you answer 7 questions] --> B[1–2 · Research & capture<br/>site → brand.json + copy<br/>product → 4K PNG + element rects<br/>reference video → contact sheets]
   B --> C[3 · BRIEF.md<br/>positioning, proof, assets, brand]
   C --> D[4 · STORYBOARD.md<br/>120 BPM grid, one-story thread,<br/>hit list, music plan]
